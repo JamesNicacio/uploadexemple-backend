@@ -1,0 +1,7 @@
+node_modules
+
+.env
+.env-sample
+
+tmp/upload/*
+!temp/uploads/.gitkeep
